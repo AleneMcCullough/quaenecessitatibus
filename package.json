@@ -1,0 +1,26 @@
+{
+  "name": "quaenecessitatibus",
+  "main": "./target/index.js",
+  "typings": "./target/index.d.ts",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/AleneMcCullough/quaenecessitatibus.git"
+  },
+  "version": "1.0.0",
+  "files": [
+    "target"
+  ],
+  "dependencies": {
+    "url-transformers": "^0.0.7"
+  },
+  "devDependencies": {
+    "prettier": "^1.15.3",
+    "source-map-support": "^0.5.9",
+    "tslint": "^5.11.0",
+    "tslint-language-service": "^0.9.9",
+    "tslint-no-unused": "^0.2.0-alpha.1",
+    "typescript": "^3.2.2"
+  },
+  "author": "PearlineDavis",
+  "homepage": "https://github.com/AleneMcCullough/quaenecessitatibus.git"
+}
